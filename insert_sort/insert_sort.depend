@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575385705 source:o:\seminar\insert_sort\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1576439982 source:c:\users\fanda\source\sort\insert_sort\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

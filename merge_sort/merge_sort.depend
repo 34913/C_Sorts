@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576436143 source:c:\users\fanda\source\sort\merge_sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

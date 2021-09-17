@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578388746 source:c:\users\fanda\source\sort\quicksort\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
