@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1579041075 source:c:\users\fanda\source\sort\heap_sort\main.cpp
-	<iostream>
-	<stdio.h>
-	<stdlib.h>
-

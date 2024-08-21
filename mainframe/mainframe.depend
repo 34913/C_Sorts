@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1578392710 source:c:\users\fanda\source\sort\mainframe\main.cpp
-	<iostream>
-	<stdio.h>
-	<stdlib.h>
-	<stdint.h>
-

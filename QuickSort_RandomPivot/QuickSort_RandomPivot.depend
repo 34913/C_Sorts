@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1602860834 source:c:\users\fanda\source\sort\quicksort_randompivot\main.cpp
-	<iostream>
-	<cstdlib>
-	<time.h>
-	<stdio.h>
-
